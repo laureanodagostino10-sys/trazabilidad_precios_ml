@@ -17,3 +17,7 @@ Registra cada cambio de precio como un registro nuevo (serie temporal inmutable)
 Cruza ese historial con campañas promocionales (por ejemplo: Cyber Monday) para detectar inflación artificial previa al descuento.
 Modera automáticamente: quita la insignia "Oferta" a las publicaciones infladas, suma un intento al vendedor y, si es reincidente, deriva el caso a Auditoría para bloquear su participación en el evento.
 Muestra al comprador un gráfico de líneas con la curva de precios y la insignia "Descuento genuino" directamente en la publicación.
+
+Enlaces de acceso:
+- Repositorio público: `https://github.com/laureanodagostino10-sys/trazabilidad_precios_ml`
+- Tablero ágil (GitHub Projects): `https://github.com/users/laureanodagostino10-sys/projects/1/views/1?system_template=kanban`

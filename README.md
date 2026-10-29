@@ -91,9 +91,9 @@ Tablero con columnas **Por Hacer → En Progreso → Listo**. Cada historia es u
 
 | ID | Historia de usuario | Criterio de aceptación | Estado |
 |---|---|---|---|
-| HU-01 | Como **comprador**, quiero ver un gráfico de líneas con el historial de precios dentro de la publicación, para verificar si un descuento es real sin salir de Mercado Libre. | El gráfico se renderiza con datos del histórico, con eje de fechas y valores.
-| HU-02 | Como **analista de datos**, quiero que cada cambio de precio se guarde como un registro nuevo sin sobrescribir el anterior, para contar con una serie temporal auditable. | Tras 7 días hay un registro por cada cambio, sin pérdida ni pisado.
-| HU-03 | Como **auditor de la plataforma**, quiero que el sistema detecte inflación artificial previa a una campaña y retire la insignia "Oferta", para proteger la confianza de los compradores. | El algoritmo detecta el 100 % de las anomalías del lote de prueba.
+| HU-01 | Como **comprador**, quiero ver un gráfico de líneas con el historial de precios dentro de la publicación, para verificar si un descuento es real sin salir de Mercado Libre. | El gráfico se renderiza con datos del histórico, con eje de fechas y valores. | Listo |
+| HU-02 | Como **analista de datos**, quiero que cada cambio de precio se guarde como un registro nuevo sin sobrescribir el anterior, para contar con una serie temporal auditable. | Tras 7 días hay un registro por cada cambio, sin pérdida ni pisado. | En progreso |
+| HU-03 | Como **auditor de la plataforma**, quiero que el sistema detecte inflación artificial previa a una campaña y retire la insignia "Oferta", para proteger la confianza de los compradores. | El algoritmo detecta el 100 % de las anomalías del lote de prueba. | Por hacer |
 
 ---
 
